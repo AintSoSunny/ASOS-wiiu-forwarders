@@ -19,7 +19,7 @@ int main()
 			if(Mocha_LaunchRPX(&info) != MOCHA_RESULT_SUCCESS)
 				SYSLaunchMenu();
 
-			Mocha_DeinitLibrary();
+			Mocha_DeInitLibrary();
 
 		}
 		else
