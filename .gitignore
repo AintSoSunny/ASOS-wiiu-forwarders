@@ -1,5 +1,6 @@
 *.rpx
 *.zip
+/.vs
 /build
 /out
 /tmp
